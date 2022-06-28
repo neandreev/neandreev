@@ -33,7 +33,7 @@ jobs:
           config_timezone: Asia/Yekaterinburg
           plugin_languages: yes
           plugin_languages_indepth: yes
-          plugin_languages_details: percentage, lines
+          plugin_languages_details: percentage
           plugin_languages_threshold: 1%
           plugin_habits: yes
           plugin_habits_charts_type: classic
