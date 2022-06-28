@@ -25,6 +25,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
+          optimize: svg
+          experimental_features: --optimize-svg
           user: neandreev
           template: classic
           base: header, activity, community, repositories
