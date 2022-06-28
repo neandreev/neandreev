@@ -23,14 +23,10 @@ jobs:
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
-          template: markdown
-          filename: metrics.markdown.md
-          markdown: >-
-            https://raw.githubusercontent.com/lowlighter/metrics/examples/metrics.markdown.template.md
-          config_output: markdown
 
           # Options
           user: neandreev
+          template: classic
           base: header, activity, community, repositories
           config_timezone: Asia/Yekaterinburg
           plugin_habits: yes
