@@ -29,7 +29,7 @@ jobs:
           experimental_features: --optimize-svg
           user: neandreev
           template: classic
-          base: header, activity, community, repositories
+          base: header, activity, community
           config_timezone: Asia/Yekaterinburg
           plugin_habits: yes
           plugin_habits_charts_type: classic
