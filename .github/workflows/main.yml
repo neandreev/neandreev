@@ -33,10 +33,10 @@ jobs:
           config_timezone: Asia/Yekaterinburg
           config_display: columns
           plugin_languages: yes
+          plugin_languages_details: lines, percentage
+          plugin_languages_sections: most-used
           plugin_languages_indepth: yes
-          plugin_languages_details: percentage
-          plugin_languages_threshold: 1%
-          commits_authoring: Andreev Danila, neandreev, mail@neandreev.ru
+          plugin_languages_limit: 6
           plugin_habits: yes
           plugin_habits_charts_type: classic
           plugin_habits_days: 14
