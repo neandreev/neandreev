@@ -31,6 +31,7 @@ jobs:
           template: classic
           base: header, activity, community
           config_timezone: Asia/Yekaterinburg
+          config_display: columns
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_details: percentage
