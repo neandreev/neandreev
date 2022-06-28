@@ -43,6 +43,10 @@ jobs:
           plugin_habits_from: 200
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+          plugin_music_token: ${{ secrets.LASTFM_TOKEN }}
+          plugin_music_provider: lastfm
+          plugin_music_user: neandreev
+          plugin_music: yes
           plugin_wakatime: yes
           plugin_wakatime_token: 7d9efcdb-9862-4762-ad53-109476996745
           plugin_wakatime_days: 7
