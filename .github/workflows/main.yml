@@ -31,7 +31,6 @@ jobs:
 
           # Options
           user: neandreev
-          template: classic
           base: header, activity, community, repositories
           config_timezone: Asia/Yekaterinburg
           plugin_habits: yes
