@@ -37,6 +37,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_wakatime: yes
+          plugin_wakatime_token: 7d9efcdb-9862-4762-ad53-109476996745
           plugin_wakatime_days: 7
           plugin_wakatime_limit: 5
           plugin_wakatime_repositories_visibility: public
