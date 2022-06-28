@@ -36,6 +36,7 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_details: percentage
           plugin_languages_threshold: 1%
+          commits_authoring: Andreev Danila, neandreev, mail@neandreev.ru
           plugin_habits: yes
           plugin_habits_charts_type: classic
           plugin_habits_days: 14
