@@ -29,5 +29,5 @@
 [![Mail](https://img.shields.io/badge/-mail@neandreev.ru-black?style=flat-square&color=3a4a4c)](mailto:mail@neandreev.ru)
 
 ***
-[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/neandreev/d92e2b7e58dd903a609271efa20f745c/raw/19b736b1af8fba9e988c49430b71ee88bcd1eac6/metrics-left.svg">](#)
-[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/neandreev/d92e2b7e58dd903a609271efa20f745c/raw/19b736b1af8fba9e988c49430b71ee88bcd1eac6/metrics-right.svg">](#)
+[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/neandreev/d92e2b7e58dd903a609271efa20f745c/raw/metrics-left.svg">](https://github.com/lowlighter/metrics 'Сделано при помощи lowlighter/metrics')
+[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/neandreev/d92e2b7e58dd903a609271efa20f745c/raw/metrics-right.svg">](https://github.com/lowlighter/metrics 'Сделано при помощи lowlighter/metrics')
