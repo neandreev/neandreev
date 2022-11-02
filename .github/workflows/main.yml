@@ -32,14 +32,14 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_limit: 6
 
-          plugin_wakatime: yes
-          plugin_wakatime_token: 7d9efcdb-9862-4762-ad53-109476996745
-          plugin_wakatime_days: 7
-          plugin_wakatime_limit: 5
-          plugin_wakatime_repositories_visibility: public
-          plugin_wakatime_sections: time, projects, projects-graphs, editors, os
-          plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: neandreev
+          # plugin_wakatime: yes
+          # plugin_wakatime_token: 7d9efcdb-9862-4762-ad53-109476996745
+          # plugin_wakatime_days: 7
+          # plugin_wakatime_limit: 5
+          # plugin_wakatime_repositories_visibility: public
+          # plugin_wakatime_sections: time, projects, projects-graphs, editors, os
+          # plugin_wakatime_url: https://wakatime.com
+          # plugin_wakatime_user: neandreev
 
       - name: Metrics-Right
         if: ${{ success() || failure() }}
